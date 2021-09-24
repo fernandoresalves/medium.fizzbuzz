@@ -1,0 +1,2 @@
+# medium.fizzbuzz
+Algoritmo FizzBuzz
