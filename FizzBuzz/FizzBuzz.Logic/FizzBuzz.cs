@@ -6,12 +6,12 @@ namespace FizzBuzz.Logic
     {
         public static bool IsFizz(int number)
         {
-            return false;
+            return number % 3 == 0;
         }
 
         public static bool IsBuzz(int number)
         {
-            return false;
+            return number % 5 == 0;
         }
 
         public static bool IsFizzBuzz(int number)
